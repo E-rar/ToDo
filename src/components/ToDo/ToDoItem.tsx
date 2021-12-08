@@ -16,11 +16,7 @@ export const ToDo  = (props:TodoTypes) => {
                 </h3>
             </div>
             
-            <div className="drag">
-                ..<br/>
-                ..<br/>
-                ..<br/>
-            </div>
+          
         </div>
      )
 }

@@ -2,11 +2,11 @@
     width:20%;
     border:1px solid black;
     display:flex;
-    border-radius:12px;
-    background-color: rgba(44, 60, 61, 0.103);
-
+    border-radius:19px;
+    background-color: rgba(235, 247, 247, 0.808);
+    margin:1% 0%;
     .checkbox{
-        border:1px solid black;
+        // border:1px solid black;
         width:10%;
         overflow:none;
         border-radius:12px 0px 0px 12px;
@@ -20,7 +20,5 @@
         }
     }
    
-    .drag{
-
-    }
+ 
 }
