@@ -1,0 +1,26 @@
+.item{
+    width:20%;
+    border:1px solid black;
+    display:flex;
+    border-radius:12px;
+    background-color: rgba(44, 60, 61, 0.103);
+
+    .checkbox{
+        border:1px solid black;
+        width:10%;
+        overflow:none;
+        border-radius:12px 0px 0px 12px;
+        
+    }
+    .contentContainer{
+        flex-basis:90%;
+        h3{
+            margin: 3%;
+            color:#fff;
+        }
+    }
+   
+    .drag{
+
+    }
+}
